@@ -1,8 +1,15 @@
 # Game Development Workflow
 
+[![Codex](https://img.shields.io/badge/Agent-Codex-111827?style=flat-square)](#快速开始)
+[![Claude Code](https://img.shields.io/badge/Agent-Claude_Code-D97757?style=flat-square)](#快速开始)
+[![Workflow](https://img.shields.io/badge/Workflow-12_Stages-2563EB?style=flat-square)](#开发环节)
+[![Stage Guides](https://img.shields.io/badge/Stage_Guides-10-0F766E?style=flat-square)](#安装后获得什么)
+[![GitHub Stars](https://img.shields.io/github/stars/Tangchen2016/game-dev-workflow?style=flat-square)](https://github.com/Tangchen2016/game-dev-workflow/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Tangchen2016/game-dev-workflow/main?style=flat-square)](https://github.com/Tangchen2016/game-dev-workflow/commits/main)
+
 ### 把游戏开发中的规则、素材、代码和验证，推进到同一个可玩版本。
 
-**一个入口 Skill · 12 个开发环节 · 10 份阶段说明 · Codex / Claude Code**
+**一个入口 Skill，按任务加载所需阶段说明。**
 
 为使用 AI 编程助手开发游戏的人提供一套可安装的工作流。新项目从需求开始，已有项目从当前缺口继续，每个功能都完成“规则 → 资源 → 实现 → 实战 → 交付”的闭环。
 
