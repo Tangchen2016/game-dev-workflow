@@ -1,0 +1,56 @@
+{
+  "captured": "2026-10-30",
+  "skills": [
+    {
+      "name": "tower-defense",
+      "kind": "local-snapshot",
+      "entrySha256": "5b918ecfc6ed1c797fc1570c5f41c84a816d218589e867723f10af493bcc365c"
+    },
+    {
+      "name": "level-design",
+      "kind": "local-snapshot",
+      "entrySha256": "9dd60fec5dc09957f7836739da96b5a2bcff2b46ecaab020f0a9ccff7463ba3a"
+    },
+    {
+      "name": "game-feel",
+      "kind": "local-snapshot",
+      "entrySha256": "48971c7ad1fbb39069cb165f0e45f88c13776585870d69d5de8a04bbe0988e28"
+    },
+    {
+      "name": "frontend-app-builder",
+      "kind": "local-snapshot",
+      "entrySha256": "9273de02827b29534be28fb2b37154c1571ac38b4e20d3ef5482b7e22af67394"
+    },
+    {
+      "name": "web-perf",
+      "kind": "local-snapshot",
+      "entrySha256": "79c531e95ca4d96a7de920c28c127c2c09ec55cd452a92222267d2954580be23"
+    },
+    {
+      "name": "imagegen",
+      "kind": "local-snapshot",
+      "entrySha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba"
+    },
+    {
+      "name": "game-production-flow",
+      "kind": "authored-for-this-package"
+    },
+    {
+      "name": "game-rules-balance",
+      "kind": "authored-for-this-package"
+    },
+    {
+      "name": "game-runtime-integration",
+      "kind": "authored-for-this-package"
+    },
+    {
+      "name": "game-save-safety",
+      "kind": "authored-for-this-package"
+    },
+    {
+      "name": "game-acceptance-release",
+      "kind": "authored-for-this-package"
+    }
+  ],
+  "note": "Local snapshots, not a claim of latest upstream versions; optional external skills/tools are not automatically bundled."
+}
